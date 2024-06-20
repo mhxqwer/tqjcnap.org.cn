@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+.xzwk_r1 h3{text-align:center;padding:7px 0;}
+.xzwk_r1 p{text-align:right;padding-right:6px;margin-top:7px;}
+
+
+.xzwk_r{height:920px;}
+.xzwk_r1 {width:196px; overflow:hidden; padding-bottom:12px;background-color:#ffffff;}
+
+.xzwk_r1 form{margin:5px 15px;width:160px;height:24px;}
+.xzwk_r1 form input{margin:0;padding:0;}
+.xzwk_r1 form .xzwk_sor1{width:105px;border:#D2D2D2 1px solid;height:21px;border-right:none;float:left;}
+.xzwk_r1 form .xzwk_sor2{background:url(../images/xzwk_rso.jpg) center no-repeat;width:45px;height:23px;border:#D2D2D2 1px solid;margin-left:-6px;}
+
+.xzwk_r1 ul{height:120px;margin:5px 15px;}
+.xzwk_r1 ul li{width:50px;height:30px;line-height:30px;overflow:hidden;float:left;margin-left:3px;}
+
+
+/*vid_cen1*/
+.vid_cen1{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0;}
+.vid_cen1 h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑;margin-top:10px; text-align:center; margin-bottom:10px;}
+.vid_cen1 h2 img{ text-align:center; line-height:40px; border:none;}
+.vid_cen1 img.videos{margin-bottom:8px;  float:left; margin-left:14px; overflow:hidden; display:inline; border:1px solid #d3d2ca}
+.vid_cen1 ul{ width:168px;}
+.vid_cen1 ul li{ float:left; overflow:hidden; display:inline; width:168px; height:25px; line-height:25px; text-align:center;}
+.vid_cen1 ul li a{color:#8d8d8d;}
+.vid_cen1 ul li a:hover{color:#bb112c;}
+.vid_cen1 p{float:left; overflow:hidden; display:inline; width:194px; height:30px; text-align:center; color:#8d8d8d;line-height:30px; margin-top:3px;}
+.vid_cen1 p a{color:#bb112c; float:right; margin-right:10px; overflow:hidden; display:inline; font-size:10px;}
+
+
+/*vid_cen*/
+.vid_cen{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0;}
+.vid_cen h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑;margin-top:10px; text-align:center; margin-bottom:10px;}
+.vid_cen h2 img{ text-align:center; line-height:40px; border:none;}
+.vid_cen img.videos{ float:left; margin-left:14px; overflow:hidden; display:inline; border:1px solid #d3d2ca}
+.vid_cen ul{ width:175px; margin:0 auto; overflow:hidden;}
+.vid_cen ul li{ float:left; overflow:hidden; display:inline; width:175px; height:22px; line-height:22px; background:url(../images/dianli.jpg) 0 10px no-repeat; padding-left:8px;}
+.vid_cen ul li a{color:#8d8d8d;}
+.vid_cen ul li a:hover{color:#bb112c;}
+.vid_cen p{float:left; overflow:hidden; display:inline; width:194px; height:30px; text-align:center; color:#8d8d8d;line-height:30px; margin-top:3px;}
+.vid_cen p a{color:#bb112c; float:right; margin-right:10px; overflow:hidden; display:inline;}
+.tp{ width:194px; float:left; text-align:center; display:inline;}
+.vid_cen .p1p{ width:167px;margin-top:0px; margin-left:14px; margin-bottom:5px; height:20px; line-height:20px; text-align:center;}
+.vid_cen .p1p a{color:#8d8d8d; float:none; margin-right:10px; overflow:hidden; display:inline; font-size:12px;}
+.vid_cen .ld p{overflow:hidden; text-align:left; width:120px; margin:0 auto; height:22px; color:#8d8d8d;line-height:22px;}
+.vid_cen .ld.ld { width:120px; overflow:hidden;}
+.vid_cen .ld span{ width:75px; display:block; float:left;}
+.vid_cen dl{ width:90px; float:left; margin-left:5px; display:inline;}
+.vid_cen dl dd{ text-align:center;}
+.vid_cen p.bp{ height:25px;}
+.rimg{ text-align:center;}
+.mains_rg .vid_cen .rimg .biaoti{ color: #8D8D8D; display: inline;  float:none;
+    height: 22px;
+    overflow: hidden;
+    text-align: center;
+    width: 194px; line-height:22px;}
+.mains_rg .vid_cen .rimg .biaoti a{ text-align:center;  color: #8d8d8d;
+    display: inline;
+    float:none;
+    font-size: 12px;
+    margin-right: 0px;
+    overflow: hidden;}
+/*hyjs*/
+.hyjs{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; }
+.hyjs h2{ float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-top:6px; margin-bottom:10px;margin-top:10px;}
+.hyjs h2 a{color:#B01621; font-size:14px; font-weight:bold;}
+.hyjs p{ clear:both; line-height:22px; color:#8d8d8d; width:167px; margin:0 auto;}
+.hyjs .bp{float:left; overflow:hidden; display:inline; width:194px; height:26px; }
+.hyjs .gd{float:right; margin-right:10px; margin-top:8px; overflow:hidden; display:inline;}
+.hyjs .jx{ display:block; margin:0 auto;}
+.bp span{ line-height:22px; padding-top:5px; display:block; float:left;}
+.hyjs ul{ width:170px; margin:0 auto; clear:both;}
+.hyjs ul li{ line-height:22px; color:#8d8d8d; background:url(../images/dianli.jpg) 0 10px  no-repeat; padding-left:8px;}
+
+
+.hyjs dl{ width:89px; margin:0 2px 0 5px; float:left;}
+.hyjs dl dd{ line-height:25px; height:25px; overflow:hidden;}
+.mains_rg{float:right; overflow:hidden; display:inline; background:#f5f5f5; width:196px; padding:6px 6px 30px 6px;}
+
+/*画院概况*/
+.mains_rg .rg_gk{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0;}
+.mains_rg .rg_gk h2{ float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-top:6px; margin-bottom:10px;margin-top:10px;}
+.mains_rg .rg_gk h2 a{color:#B01621; font-size:14px; font-weight:bold; }
+.mains_rg .rg_gk ul{float:left; overflow:hidden; display:inline; width:194px; padding:3px 0 10px 0px;}
+.mains_rg .rg_gk ul li{float:left;overflow:hidden; display:inline; width:194px; text-align:center; height:22px; line-height:22px; font-size:12px; font-family:宋体; text-align:center; letter-spacing:4px;}
+.mains_rg .rg_gk ul li a{ color:#8d8d8d;}
+.mains_rg .rg_gk p{float:left; overflow:hidden; display:inline; width:194px; height:26px; line-height:20px;}
+.mains_rg .rg_gk p a{color:#bb112c; float:right; margin-right:10px; overflow:hidden; display:inline; font-size:10px;}
+
+
+
+
+/*画院专业院*/
+.mains_rg .hy_zyy{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin:3px 0 3px 0;}
+.mains_rg .hy_zyy h2{ float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-bottom:5px;margin-top:10px;}
+.mains_rg .hy_zyy h2 a{color:#B01621; font-size:14px; margin-bottom:10px; font-weight:bold;}
+.mains_rg .hy_zyy ul{float:left; overflow:hidden; display:inline; width:170px; padding:3px 0 0 25px;}
+.mains_rg .hy_zyy ul li{float:left; overflow:hidden; display:inline; text-align:left; height:24px; line-height:24px; font-family:宋体; font-size:12px; width:80px; color:#3e3a39;}
+.mains_rg .hy_zyy p{float:left; overflow:hidden; display:inline; width:194px; height:26px; margin-top:8px; }
+.mains_rg .hy_zyy p a{ float:right; margin-right:10px; overflow:hidden; display:inline;}
+
+/*展览收藏*/
+.mains_rg .zl_sou{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin-top:3px;}
+.mains_rg .zl_sou h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-top:10px;}
+.mains_rg .zl_sou h2 img{text-align:center; line-height:40px; border:none; margin-bottom:20px;}
+.mains_rg .zl_sou ul{float:left; overflow:hidden; display:inline; width:173px; margin:8px 0 0 8px;}
+.mains_rg .zl_sou ul li{float:left; overflow:hidden; display:inline; width:173px; height:22px; line-height:22px; background:url(../images/dianli.jpg) no-repeat 9px 10px; text-indent:17px;}
+.mains_rg .zl_sou ul li a{color:#8d8d8d;}
+.mains_rg .zl_sou ul li a:hover{ color:#bb112c;}
+.mains_rg .zl_sou p{float:left; overflow:hidden; display:inline; width:194px; height:26px;  margin-top:8px;}
+.mains_rg .zl_sou p a{ float:right; margin-right:10px; overflow:hidden; display:inline;}
+/*创作研究*/
+.mains_rg .sa_ys{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin-top:3px;}
+.mains_rg .sa_ys h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑;margin-top:10px;}
+.mains_rg .sa_ys h2 a{color:#B01621; font-size:14px; line-height:26px; font-weight:bold;}
+.mains_rg .sa_ys ul{float:left; overflow:hidden; display:inline; width:173px; margin:8px 0 0 8px;}
+.mains_rg .sa_ys ul li{float:left; overflow:hidden; display:inline; width:173px; height:22px; line-height:22px; background:url(../images/dianli.jpg) no-repeat 9px 10px; text-indent:17px;}
+.mains_rg .sa_ys ul li a{color:#8d8d8d;}
+.mains_rg .sa_ys ul li a:hover{ color:#bb112c;}
+.mains_rg .sa_ys p{float:left; overflow:hidden; display:inline; width:194px; height:26px; margin-top:8px;}
+.mains_rg .sa_ys p a{ float:right; margin-right:10px; overflow:hidden; display:inline;}
+
+/*院报院刊*/
+.mains_rg .ybyk{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin-top:3px;}
+.mains_rg .ybyk h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-top:10px;}
+.mains_rg .ybyk h2 a{color:#B01621; font-size:14px; line-height:20px; font-weight:bold; height:20px;}
+.mains_rg .ybyk .in_img{float:left; overflow:hidden; display:inline; width:182px; padding-right:12px; padding-left:6px;}
+.mains_rg .ybyk .in_img1{float:left; overflow:hidden; display:inline; width:182px; padding-right:12px; padding-left:6px;}
+.mains_rg .ybyk .in_img img{float:left; overflow:hidden; display:inline; margin-left:8px; margin-top:8px;}
+.mains_rg .ybyk .in_img1 img{float:left; overflow:hidden; display:inline; margin-left:13px; margin-top:8px;}
+.mains_rg .ybyk p{float:left; overflow:hidden; display:inline; width:194px; height:26px; margin-top:8px;}
+.mains_rg .ybyk p a{ float:right; margin-right:10px; overflow:hidden; display:inline;}
+
+/*画家数据库*/
+.mains_rg .exper_sj{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin-top:3px;}
+.mains_rg .exper_sj h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑;margin-top:10px;}
+.mains_rg .exper_sj h2 a{color:#B01621; font-size:14px; line-height:20px; font-weight:bold; height:20px;}
+.mains_rg .exper_sj form{float:left; overflow:hidden; display:inline; width:126px;height:13px; line-height:13px; border:1px solid #a09d9d; margin:12px 0 12px 31px;}
+.texts{ display: inline;  float: left;   height: 13px;   line-height: 13px;  margin-right: 3px; overflow: hidden;    width: 105px;}
+.btns{ float:left; overflow:hidden; display:inline; height:13px; line-height:13px; background:url(../images/searchs.jpg) no-repeat; width:18px; cursor:pointer}
+.mains_rg .exper_sj ul{ float:left; overflow:hidden; display:inline; width:194px;}
+.mains_rg .exper_sj ul li{ float:left; overflow:hidden; display:inline; line-height:20px; height:20px; margin-left:9px;}
+.mains_rg .exper_sj ul li a{color:#808080;}
+.mains_rg .exper_sj p{float:left; overflow:hidden; display:inline; width:194px; height:26px; margin-top:8px;}
+.mains_rg .exper_sj p a{ float:right; margin-right:10px; overflow:hidden; display:inline;}
+
+.th_same{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin-top:3px;}
+.th_same h2{float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-top:5px;}
+.th_same h2 a{color:#B01621; font-size:15px; line-height:20px; font-weight:bold; height:20px; margin-top:5px;}
+.th_same p{float:left; overflow:hidden; display:inline; width:194px; height:20px; }
+.th_same p a{float:right; margin-right:10px; overflow:hidden; display:inline; }
+/*院内机构*/
+.ynld{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; padding-bottom:8px;}
+.ynld h2{ float:left; overflow:hidden; display:inline; width:194px; text-align:center; font-family:微软雅黑; margin-top:6px; margin-bottom:10px;margin-top:10px;}
+.ynld h2 a{color:#B01621; font-size:14px; font-weight:bold;}
+.ynld p{ text-indent:2em; clear:both; line-height:22px; color:#8d8d8d; width:167px; margin:0 auto;}
+.ynld .bp{float:left; overflow:hidden; display:inline; width:194px; height:26px; }
+.ynld .gd{float:right; margin-right:10px; margin-top:8px; overflow:hidden; display:inline;}
+.ynld ul{ width:171px; margin:0 auto; clear:both;}
+.ynld ul li{ letter-spacing:3px; line-height:25px; height:25px; text-align:center;}
+
+/*画院风光*/
+.mains_rg .par_02{float:right; overflow:hidden; display:inline; width:194px; background:#FFF; border:1px solid #e0e0e0; margin-top:3px;}
+
+
+.par_02 .bp {
+    display: inline;
+    float: left;
+    height: 26px;
+    overflow: hidden;
+    width: 194px;
+}
+
+.par_02 .gd {
+    display: inline;
+    float: right;
+    margin-right: 10px;
+    margin-top: 8px;
+    overflow: hidden;
+}
